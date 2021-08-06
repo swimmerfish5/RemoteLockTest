@@ -1,0 +1,6 @@
+module Pods_RemoteLockTest {
+  umbrella header "Pods-RemoteLockTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
